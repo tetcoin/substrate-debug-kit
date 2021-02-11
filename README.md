@@ -1,4 +1,4 @@
-# Substrate debug-kit 🛠⚙️
+# Tetcore debug-kit 🛠⚙️
 
 A collection of debug tools and libraries around substrate chains.
 
