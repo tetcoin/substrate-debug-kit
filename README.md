@@ -1,6 +1,6 @@
 # Tetcore debug-kit 🛠⚙️
 
-A collection of debug tools and libraries around substrate chains.
+A collection of debug tools and libraries around tetcore chains.
 
 > This project has evolved from the historical name **`offline-phragmen`**. I first created this repo
 > prior to [Kusama](https://kusama.network/)'s NPoS enabling as a tool to predict the outcome. Henceforth, it has evolved
